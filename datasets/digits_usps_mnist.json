@@ -1,0 +1,8 @@
+{
+    "dataset_group": "digits",
+    "dataset_name": "USPS to MNIST",
+    "source": "usps",
+    "target": "mnist",
+    "size_type": "source",
+    "weight_type": "natural"
+}
