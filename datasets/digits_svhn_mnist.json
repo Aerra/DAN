@@ -1,8 +1,0 @@
-{
-    "dataset_group": "digits",
-    "dataset_name": "SVHN to MNIST",
-    "source": "svhn",
-    "target": "mnist",
-    "size_type": "source",
-    "weight_type": "natural"
-}
